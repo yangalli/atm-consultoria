@@ -44,7 +44,7 @@ export default class CenaServicos extends React.Component {
 
         <View style={cabecalho}>
           <Image source={detalheServico} />
-          <Text style={textoTitulo}>Contatos</Text>
+          <Text style={textoTitulo}>Serviços</Text>
         </View>
 
         <View style={detalhesServicos}>

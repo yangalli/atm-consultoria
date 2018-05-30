@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View } from 'react-native';
-import { Router, Scene } from 'react-native-router-flux'
+import { Router, Scene } from 'react-native-router-flux';
 import CenaClientes from './src/components/CenaClientes';
 import CenaPrincipal from './src/components/CenaPrincipal';
 import CenaContatos from './src/components/CenaContatos';
